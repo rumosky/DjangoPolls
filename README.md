@@ -7,6 +7,7 @@
 #### 项目地址
 
 github：https://github.com/rumosky/DjangoPolls
+
 Gitee：https://gitee.com/rumosky_admin/DjangoPolls
 
 #### 使用
@@ -29,4 +30,6 @@ Starting development server at http://127.0.0.1:8000/
 Quit the server with CONTROL-C.
 ```
 
-打开http://127.0.0.1:8000/，即可看到poll投票程序。
+打开http://127.0.0.1:8000/
+
+即可看到poll投票程序。
