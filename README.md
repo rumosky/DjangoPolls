@@ -8,7 +8,7 @@
 
 github：https://github.com/rumosky/DjangoPolls
 
-Gitee：https://gitee.com/rumosky_admin/DjangoPolls
+Gitee：https://gitee.com/rumosky/DjangoPolls
 
 #### 使用
 
